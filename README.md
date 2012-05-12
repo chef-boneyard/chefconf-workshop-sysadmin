@@ -1,5 +1,7 @@
 Welcome to Opscode's ChefConf Workshop for System Administrators!
 
+See PREREQ.md for prerequisites for this workshop.
+
 This is the
 [Chef Repository](http://wiki.opscode.com/display/chef/Chef+Repository)
 for the system administrator focused workshop. It contains the
